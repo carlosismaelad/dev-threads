@@ -1,3 +1,5 @@
+name: devthreads
+
 networks:
   local-network:
     driver: bridge
